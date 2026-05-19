@@ -1,6 +1,4 @@
 // // ---------------- Wi-Fi ----------------
-// const char* WIFI_SSID = "Fibre_MarocTelecom-E80B";
-// const char* WIFI_PASS = "evG8SQgbAE";
 
 /* SalahTimetable.ino
  *  Works with:
